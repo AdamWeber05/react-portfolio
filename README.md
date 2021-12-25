@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Link to Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+View my portfolio [here](https://AdamWeber05.github.io/react-portfolio)
 
 ## Available Scripts
 
