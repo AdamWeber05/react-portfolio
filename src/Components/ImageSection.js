@@ -12,10 +12,12 @@ function ImageSection() {
             <div className="right-content">
                 <h4>I am <span>Adam Weber</span></h4>
                 <p className="paragraph">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
-                    praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi, nesciunt.
-                    
+                    I am a graduate of the University of South Carolina - GO GAMECOCKS! - and a software developer.  
+                    Programming, for me, provides a great outlet for both problem solving and transforming the world we live in for the better.  
+                    I love technology and I care about people - and when I develop code I am able to see the perfect blend of both.   
+                </p>
+                <p className="paragraph">
+                    Outside of work, I enjoy being outdoors - the beach or the mountains, it doesn't matter to me.  I snowboard when I can, and enjoy playing and watching sports of all kinds.  If there is a pickup truck involved...count me IN!    
                 </p>
                 <div className="about-info">
                     <div className="info-title">

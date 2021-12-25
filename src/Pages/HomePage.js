@@ -16,7 +16,7 @@ function HomePage() {
                 <p> 
                     I'm a 2021 graduate from the University of South Carolina.  I graduated with a Bachelor of Science in 
                     Computer Information Systems and a Minor in Business Information Management.
-                    Explore my page to learn more about me and some of the work I have done!
+                    Explore my page to learn more about me and some of the work I have done...
                     
                 </p>
                 <div className="icons">

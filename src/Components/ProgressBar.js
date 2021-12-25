@@ -25,7 +25,7 @@ const ProgressBarStyled = styled.div`
         .progress{
             position: relative;
             width: 100%;
-            height: .4rem;
+            height: .8rem;
             background-color: var(--border-color);
             span{
                 position: absolute;

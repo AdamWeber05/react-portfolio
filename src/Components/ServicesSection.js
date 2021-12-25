@@ -11,7 +11,7 @@ function ServicesSection() {
     return (
         <InnerLayout>
             <ServicesSectionStyled>
-                <Title title={'Services'} span={'services'} />
+                <Title title={'Areas of Interest'} span={'Areas of Interest'} />
                 <div className="services">
                     <ServiceCard 
                         image={design} 
@@ -21,7 +21,7 @@ function ServicesSection() {
                     <div className="mid-card">
                         <ServiceCard 
                             image={fullstack} 
-                            title={'Full Stack Developer'} 
+                            title={'Full Stack Development'} 
                             paragraph={'Am comfortable utilizing both front and backend services.  I have expereince with Full Stack development in React, Django, and Node JS. '}
                         />
                     </div>

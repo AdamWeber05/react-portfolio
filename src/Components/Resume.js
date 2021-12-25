@@ -22,13 +22,13 @@ function Resume() {
                         year={'Summer/Fall 2021'} 
                         title={'Jacobs Software Developer, Part Time'}
                         subTitle={'Cyber and Intelligence Missions'}
-                        text={'Worked on the HACCS program which utilized machine learning to detect botnet infrastructures.  Gained experience with Python and C as well as completed the HACCS ML challenge. '} 
+                        text={'Worked on the HACCS program which utilized machine learning to detect botnet infrastructures.  Developed in Python and C, and completed the HACCS ML proficiency challenge. '} 
                     />
                     <ResumeItem 
                         year={'Summer/Fall 2020'} 
                         title={'Jacobs Intern'}
                         subTitle={'Cyber and Intelligence Missions'}
-                        text={'Tasked with creating a web application from scratch to replace a current system with updated needs.  Development within the Node JS framework and utilized MongoDB for the backend. '} 
+                        text={'Developed a modernized web application from scratch to replace a current system with updated needs.  Development within the Node JS framework and utilized MongoDB for the backend. '} 
                     />
                     <ResumeItem 
                         year={'Summer 2019'} 
@@ -40,13 +40,13 @@ function Resume() {
                         year={'Summer 2018'} 
                         title={'KeyW Corporation Intern'}
                         subTitle={'Defense Mission Sector'}
-                        text={'Gained experience with Docker and ElasticSearch to monitor network data in the form of PCAP files.  Worked with data visualization tools including Kibana and Jupyter to display data graphically. '} 
+                        text={'Utilized Docker and ElasticSearch to monitor network data in the form of PCAP files.  Worked with data visualization tools including Kibana and Jupyter to display data graphically. '} 
                     />
                     <ResumeItem 
                         year={'January 2021 - May 2021'} 
                         title={'Capstone Project'}
                         subTitle={'Tidewater Boats'}
-                        text={'Collaborated with a team of 4 to develop a web app for a recreational boat manufacturer.  Gained experience with Python and the Django Framework. '} 
+                        text={'Collaborated with a team of 4 to develop a web app for a recreational boat manufacturer.  Developed in Python and the Django Framework. '} 
                     />
                     <ResumeItem 
                         year={'August 2021 - December 2021'} 
@@ -73,7 +73,7 @@ function Resume() {
                     />
                     <ResumeItem 
                         year={'Fall 2020'} 
-                        title={'Codeathon Participant'}
+                        title={'ACM Codeathon Finalist'}
                         subTitle={'University of South Carolina'}
                         text={'Top 5 out of 200+ students'} 
                     />

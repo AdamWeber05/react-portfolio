@@ -8,48 +8,40 @@ function Skills() {
     return (
         <SkillsStyled>
             
-                <Title title={'My Skills'} span={'my skills'} />
+                <Title title={'Technology Skill Sets'} span={'Technology Skill Sets'} />
                 <InnerLayout>
                     <div className="skills">
                         <ProgressBar 
                             title={'Javascript'}
-                            width={'85%'}
-                            text={'85%'}
+                            width={'100%'}
                         />
                         <ProgressBar 
                             title={'React JS'}
-                            width={'80%'}
-                            text={'80%'}
+                            width={'100%'}
                         />
                         <ProgressBar 
                             title={'HTML'}
-                            width={'95%'}
-                            text={'95%'}
+                            width={'100%'}
                         />
                         <ProgressBar 
                             title={'CSS'}
-                            width={'95%'}
-                            text={'95%'}
+                            width={'100%'}
                         />
                         <ProgressBar 
                             title={'Python'}
-                            width={'70%'}
-                            text={'70%'}
+                            width={'100%'}
                         />
                         <ProgressBar 
                             title={'C++'}
-                            width={'80%'}
-                            text={'80%'}
+                            width={'100%'}
                         />
                         <ProgressBar 
                             title={'Java'}
-                            width={'90%'}
-                            text={'90%'}
+                            width={'100%'}
                         />
                         <ProgressBar 
                             title={'AWS'}
-                            width={'75%'}
-                            text={'75%'}
+                            width={'100%'}
                         />
                     </div>
                 </InnerLayout>
