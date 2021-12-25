@@ -22,7 +22,7 @@ function Resume() {
                         year={'Summer/Fall 2021'} 
                         title={'Jacobs Software Developer, Part Time'}
                         subTitle={'Cyber and Intelligence Missions'}
-                        text={'Worked on the HACCS program which utilized machine learning to detect botnet infrastructures.  Gained experience with Python and C as well as completed the HACCS ML challenge.  Implemented data compression/decompression techniques. '} 
+                        text={'Worked on the HACCS program which utilized machine learning to detect botnet infrastructures.  Gained experience with Python and C as well as completed the HACCS ML challenge. '} 
                     />
                     <ResumeItem 
                         year={'Summer/Fall 2020'} 
