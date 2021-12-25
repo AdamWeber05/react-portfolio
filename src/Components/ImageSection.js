@@ -20,15 +20,15 @@ function ImageSection() {
                 <div className="about-info">
                     <div className="info-title">
                         <p>Age</p>
+                        <p>School</p>
                         <p>Major </p>
                         <p>Minor </p>
-                        <p>Location</p>
                     </div>
                     <div className="info">
                         <p>: 22</p>
+                        <p>: University of South Carolina </p>
                         <p>: Computer Information Systems </p>
                         <p>: Businesss Information Management </p>
-                        <p>: Ashburn, VA</p>
                     </div>
                 </div>
                 <a href="/files/resume.pdf" download><PrimaryButton title={'Download Cv'}/></a>
